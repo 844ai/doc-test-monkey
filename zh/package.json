@@ -1,0 +1,20 @@
+{
+  "name": "todo-cool-quasar",
+  "version": "3.9.3",
+  "description": "自动化测试工具赋能3k薪水的测试拥有15k的能力",
+  "productName": "测试猿官网api文档",
+  "author": "test.644.ai",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.32"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.10"
+  }
+}
